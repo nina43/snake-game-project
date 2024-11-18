@@ -1,0 +1,23 @@
+#gameContainer {
+  text-align: center;
+}
+
+#gameBoard {
+  border: 3px solid;
+}
+
+#score {
+  font-family: "Geist Mono", monospace;
+  font-size: 80px;
+}
+#resetBtn {
+  font-family: "Geist Mono", monospace;
+  font-size: 22px;
+  width: 100px;
+  height: 50px;
+  border: 2px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+  background-color: rgb(230, 89, 112);
+}
